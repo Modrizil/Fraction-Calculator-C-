@@ -36,17 +36,17 @@
 
 程序菜单界面
 
-![程序菜单界面](F:\CodeBlocks(workshop)\作业\大作业\U201713511\fraction\fig\程序菜单界面.png)
+![程序菜单界面](.\fig\程序菜单界面.png)
 
 操作1
 
-![操作1](F:\CodeBlocks(workshop)\作业\大作业\U201713511\fraction\fig\操作1.png)
+![操作1](.\fig\操作1.png)
 
 操作2
 
-![操作2](F:\CodeBlocks(workshop)\作业\大作业\U201713511\fraction\fig\操作2.png)
+![操作2](.\fig\操作2.png)
 
 操作3
 
-![操作3](F:\CodeBlocks(workshop)\作业\大作业\U201713511\fraction\fig\操作3.png)
+![操作3](.\fig\操作3.png)
 

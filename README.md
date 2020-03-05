@@ -36,17 +36,17 @@
 
 程序菜单界面
 
-![程序菜单界面](https://github.com/Modrizil/Fraction-Calculator-C-/fig/程序菜单界面.png)
+![程序菜单界面](https://github.com/Modrizil/Fraction-Calculator-C-/fig/\347\250\213\345\272\217\350\217\234\345\215\225\347\225\214\351\235\242.png)
 
 操作1
 
-![操作1](https://github.com/Modrizil/Fraction-Calculator-C-/fig/操作1.png)
+![操作1](https://github.com/Modrizil/Fraction-Calculator-C-/fig/\346\223\215\344\275\2341.png)
 
 操作2
 
-![操作2](https://github.com/Modrizil/Fraction-Calculator-C-/fig/操作2.png)
+![操作2](https://github.com/Modrizil/Fraction-Calculator-C-/fig/\346\223\215\344\275\2342.png)
 
 操作3
 
-![操作3](https://github.com/Modrizil/Fraction-Calculator-C-/fig/操作3.png)
+![操作3](https://github.com/Modrizil/Fraction-Calculator-C-/fig/\346\223\215\344\275\2343.png)
 

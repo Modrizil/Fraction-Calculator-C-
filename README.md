@@ -36,17 +36,17 @@
 
 程序菜单界面
 
-![程序菜单界面](.\fig\程序菜单界面.png)
+![程序菜单界面](https://github.com/Modrizil/Fraction-Calculator-C-/fig/程序菜单界面.png)
 
 操作1
 
-![操作1](.\fig\操作1.png)
+![操作1](https://github.com/Modrizil/Fraction-Calculator-C-/fig/操作1.png)
 
 操作2
 
-![操作2](.\fig\操作2.png)
+![操作2](https://github.com/Modrizil/Fraction-Calculator-C-/fig/操作2.png)
 
 操作3
 
-![操作3](.\fig\操作3.png)
+![操作3](https://github.com/Modrizil/Fraction-Calculator-C-/fig/操作3.png)
 

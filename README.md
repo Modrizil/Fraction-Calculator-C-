@@ -32,21 +32,5 @@
 
 该部分是用来展示通分的具化过程，进行信息打印。要求的是并进行整理，并进行打印，相当于是将`fraction.c`中多个函数的整合使用。  
 
-## 效果展示
 
-程序菜单界面
-
-![程序菜单界面](https://github.com/Modrizil/Fraction-Calculator-C-/fig/\347\250\213\345\272\217\350\217\234\345\215\225\347\225\214\351\235\242.png)
-
-操作1
-
-![操作1](https://github.com/Modrizil/Fraction-Calculator-C-/fig/\346\223\215\344\275\2341.png)
-
-操作2
-
-![操作2](https://github.com/Modrizil/Fraction-Calculator-C-/fig/\346\223\215\344\275\2342.png)
-
-操作3
-
-![操作3](https://github.com/Modrizil/Fraction-Calculator-C-/fig/\346\223\215\344\275\2343.png)
 

@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1514875944 source:f:\codeblocks(workshop)\作业\fraction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"integer.h"
+	"fraction.h"
+	"file.h"
+	"tongfen.h"
+
+1514899320 source:f:\codeblocks(workshop)\作业\fraction\integer.c
+	<stdio.h>
+	<stdlib.h>
+	"integer.h"
+
+1514899320 f:\codeblocks(workshop)\作业\fraction\integer.h
+
+1513785020 source:f:\codeblocks(workshop)\作业\fraction\notation.c
+	<stdio.h>
+	<stdlib.h>
+	"notation.h"
+
+1513785020 f:\codeblocks(workshop)\作业\fraction\notation.h
+
+1514899320 source:f:\codeblocks(workshop)\作业\fraction\fraction.c
+	<stdio.h>
+	<stdlib.h>
+	"integer.h"
+	"fraction.h"
+
+1514877812 f:\codeblocks(workshop)\作业\fraction\fraction.h
+	"integer.h"
+
+1514979760 source:f:\codeblocks(workshop)\作业\fraction\file.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+	"fraction.h"
+
+1514859838 f:\codeblocks(workshop)\作业\fraction\file.h
+	"fraction.h"
+
+1514899345 source:f:\codeblocks(workshop)\作业\fraction\tongfen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tongfen.h"
+
+1514863014 f:\codeblocks(workshop)\作业\fraction\tongfen.h
+	"integer.h"
+	"fraction.h"
+
